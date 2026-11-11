@@ -123,4 +123,20 @@ GitHub: https://github.com/karanbhatti07
 
 ---
 
+## 📸 Project Screenshots
+
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Products Page
+![Products Page](screenshots/products.png)
+
+### Product Details
+![Product Details](screenshots/product-details.png)
+
+### Cart & Checkout
+![Cart](screenshots/cart.png)
+
+### Admin Dashboard
+![Admin Dashboard](screenshots/admin-dashboard.png)
 ⭐ If you like this project, consider giving it a star!
