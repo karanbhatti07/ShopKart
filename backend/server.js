@@ -38,7 +38,9 @@ app.use("/payment", paymentRoutes);
 app.use("/uploads", express.static("uploads"));
 
 
-
+app.get("/", (req, res) => {
+  res.send("ShopKart Backend is Running!");
+});
 
 app.listen(process.env.PORT, ()=>{
   console.log("Server Started");
